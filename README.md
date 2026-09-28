@@ -22,7 +22,7 @@ An interactive pizza sales dashboard created using SQL Server and Power BI.
 
 ## Dashboard
 
-![Dashboard](Screenshots/Dashboard_Home.png)
+![Dashboard](Dashboard_Home.png)
 
 ## SQL
 SQL queries were written in SSMS to calculate KPIs and perform sales analysis.
